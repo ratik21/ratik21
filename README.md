@@ -19,5 +19,5 @@
 
 ---
 
-**Currently:** Building an E2E encrypted messenger at **ZERO TECH** on the Matrix protocol
+**Currently:** Building an E2E encrypted messenger at **ZERO TECH** on the Matrix protocol<br>
 **Previously:** Founding Engineer at **Shop2App** · Blockchain Developer at **algo-builder** (OSS)
